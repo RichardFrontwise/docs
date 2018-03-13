@@ -2,7 +2,7 @@ Rich Text Fields
 ================
 
 
-Rich Text fields give you a Redactor-powered WYSIWYG editor, which stores HTML.
+Rich Text fields give you a Redactor-powered WYSIWYG editor, which stores HTML. To use Rich Text Fields, install the [Redactor](https://github.com/craftcms/redactor) or [CKEditor](https://github.com/craftcms/ckeditor) plugin.
 
 ## Settings
 
